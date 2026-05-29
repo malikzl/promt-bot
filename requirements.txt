@@ -1,0 +1,14 @@
+# --- UI & Tunneling ---
+streamlit==1.52.0
+pyngrok==7.5.0
+
+# --- Environment ---
+python-dotenv==1.2.1
+
+# --- LangChain Core ---
+langchain==0.2.16
+langchain-core==0.2.41
+langchain-community==0.2.11
+
+# --- LLM Provider ---
+replicate==1.0.7
